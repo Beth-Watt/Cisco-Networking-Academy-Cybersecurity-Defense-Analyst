@@ -45,8 +45,8 @@ Searched HTTP stream data for Main-Inv and found a `.bin` file downloaded from `
 - `13.107.4.50` - malicious file download source
 - `tshirt_admin` - compromised account
 - `WeSellTshirts` - partner VPN account
-- `DBell` — `192.168.16.34` - Windows Desktop, compromised
-- `Main-Inv` — `192.168.55.3` - Windows Server, compromised
+- `DBell` - `192.168.16.34` - Windows Desktop, compromised
+- `Main-Inv` - `192.168.55.3` - Windows Server, compromised
 - `PPark`, `JSam` - targeted, not confirmed compromised
 
 ---
