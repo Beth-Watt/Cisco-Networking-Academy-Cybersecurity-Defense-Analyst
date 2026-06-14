@@ -4,7 +4,7 @@ Splunk Blue Team Academy: labs and incident investigation reports_Wonderland SOC
 **Platform:** Cisco Networking Academy / Splunk Blue Team Academy  
 **Duration:** 30 hours | 7 courses + final exam  
 **Status:**   Completed
-**Course link:** [netacad.com](https://www.netacad.com/career-paths/splunk-cybersecurity-defense-analyst)
+**Course link:**  [netacad.com](https://www.netacad.com/career-paths/splunk-cybersecurity-defense-analyst)
 
 ---
 
