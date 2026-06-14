@@ -6,7 +6,7 @@ Analyst: Elizabeth Watt | Platform: Splunk Blue Team Academy
 
 ## Overview
 
-Alert fired for brute force activity from `172.16.16.245` — an IP outside the company's `192.168.x.x` range. Started broad and narrowed down from there.
+Alert fired for brute force activity from `172.16.16.245`, an IP outside the company's `192.168.x.x` range. Started broad and narrowed down from there.
 
 ---
 
@@ -32,9 +32,9 @@ Searched HTTP stream data for Main-Inv and found a `.bin` file downloaded from `
 - Suspicious activity triggered the Brute Force Activity Detected rule - tied to Credential Access and Discovery MITRE tactics
 - Source IP `172.16.16.245` is a partner VPN connection used for international sales
 - 2,609 failed auth attempts across 4 devices, 2 successful logins confirmed
-- `tshirt_admin` is the compromised account — `WeSellTshirts` is the partner VPN account
+- `tshirt_admin` is the compromised account - `WeSellTshirts` is the partner VPN account
 - DBell and Main-Inv confirmed compromised
-- `13.107.4.50` flagged by threat intel — `.bin` download on Main-Inv is a possible Clop malware variant
+- `13.107.4.50` flagged by threat intel - `.bin` download on Main-Inv is a possible Clop malware variant
 - Brute force attack confirmed
 
 ---
