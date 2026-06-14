@@ -38,7 +38,7 @@ The main challenge here was that VPN logs (`cp_log`) and Salesforce streaming ev
 
 Searched DTEX endpoint telemetry for file system activity and filtered by the `.lockbit` extension.
 
-LockBit ransomware was identified on `FROTHLY\richschlitzer` — Richard's workstation. At the time of discovery it was isolated to his machine. Escalated immediately for containment before it could spread.
+LockBit ransomware was identified on `FROTHLY\richschlitzer` - Richard's workstation. At the time of discovery it was isolated to his machine. Escalated immediately for containment before it could spread.
 
 ---
 
